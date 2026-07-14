@@ -5,7 +5,7 @@ from telegram.error import TelegramError
 
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
 
-TELEGRAM_TOKEN = "8926193650:AAEwLF6bGDnQFQnhcy4AoBcAigAB8RrTHJM"
+TELEGRAM_TOKEN = "8926193650:AAE3w1m1eIsSjUaP1pH7h9l4nJgl01EfyfE"
 OWNER_LINK = "https://t.me/KAPDE_DHONE_WALI"
 
 # 🔹 Instant /start Command
