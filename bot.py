@@ -5,7 +5,7 @@ from telegram.error import TelegramError
 
 logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
 
-TELEGRAM_TOKEN = "8926193650:AAE3w1m1eIsSjUaP1pH7h9l4nJgl01EfyfE"
+TELEGRAM_TOKEN = "8754392780:AAG10o0P0PewYJdCVjZb6X_lHW__sKhbg5Q"
 OWNER_LINK = "https://t.me/KAPDE_DHONE_WALI"
 
 # 🔹 Instant /start Command
@@ -37,8 +37,8 @@ async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
 # 🔹 Instant /about Command
 async def about_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     about_card = (
-        "<b>ℹ️ About Ebaadda Bot, Sir:</b>\n\n"
-        "🤖 <b>Bot Name:</b> EBA ADDA Manager\n"
+        "<b>ℹ️ About KAPDE_DHONE_WALI, Sir:</b>\n\n"
+        "🤖 <b>Bot Name:</b> DHOBAN_BOT \n"
         "⚡ <b>Speed:</b> Instant High-Speed Engine\n"
         "🛡️ <b>Security:</b> Anti-Link & Moderation\n\n"
         "<i>Designed to keep your groups safe and active!</i>"
